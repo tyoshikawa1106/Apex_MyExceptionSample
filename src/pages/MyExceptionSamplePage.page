@@ -1,5 +1,5 @@
-<apex:page Controller="MyExceptionSampleController" showHeader="true" sidebar="false">
-	<apex:form >
+<apex:page Controller="MyExceptionSampleController" title="MyExceptionSample" showHeader="true" sidebar="false" id="page">
+	<apex:form id="form">
 		<apex:outputText value="This is your new Page" />
 	</apex:form>
 </apex:page>
